@@ -51,13 +51,6 @@ The entire process of honing my skills and using them in practical situations fa
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-## 📈 Stats 
-
-[![BLACKZMARTX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackzmartx)](https://github.com/blackzmartx)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=blackzmartx.blackzmartx)](https://github.com/blackzmartx)
-
-
 <!--
 **blackzmartx/blackzmartx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
