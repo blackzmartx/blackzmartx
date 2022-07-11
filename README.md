@@ -25,7 +25,7 @@ The entire process of honing my skills and using them in practical situations fa
 
 ## 🔭 I'm currently working on
 
-- Nothing, I'm just an undergrad.
+- Simbull-bot Project
 
 
 ## 🌱 I'm currently learning
