@@ -16,13 +16,9 @@ The entire process of honing my skills and using them in practical situations fa
 ### 📫 Reach me on:
 
 <a href="https://t.me/blackzmartx/"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="BLACKZMARTX | Telegram" /></a>
-
 <a href="https://instagram.com/blackzmartx"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="BLACKZMARTX | Instagram"/></a>
-
 <a href="https://twitter.com/blackzmartx/"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="BLACKZMARTX | Twitter" /></a>
-
 <a href="https://linktr.ee/blackzmartx/"><img align="left" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="BLACKZMARTX | Linktree" /></a>
-
 </br>
 
 - If you have any question/feedback, feel free to connect with me!
