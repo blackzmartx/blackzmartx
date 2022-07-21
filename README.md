@@ -48,6 +48,11 @@ The entire process of honing my skills and using them in practical situations fa
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## Support Me
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=EGV845WHFWNDG">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+</a>
 
 <!--
 **blackzmartx/blackzmartx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
